@@ -1,9 +1,9 @@
 {
-  "name": "markdown-it-plugin-template",
-  "version": "0.2.1",
+  "name": "markdown-it-plugin-open-block",
+  "version": "0.0.1",
   "description": "A template for creating a markdown-it plugin",
-  "author": "Chris Sewell",
-  "homepage": "https://github.com/executablebooks/markdown-it-plugin-template",
+  "author": "Monster2408",
+  "homepage": "https://github.com/executablebooks/markdown-it-plugin-open-block",
   "license": "MIT",
   "keywords": [
     "markdown",
