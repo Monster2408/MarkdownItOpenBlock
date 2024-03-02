@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A template for creating a markdown-it plugin",
   "author": "Monster2408",
-  "homepage": "https://github.com/executablebooks/markdown-it-plugin-open-block",
+  "homepage": "https://github.com/Monster2408/MarkdownItOpenBlock",
   "license": "MIT",
   "keywords": [
     "markdown",
